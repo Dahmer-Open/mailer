@@ -13,7 +13,7 @@ machine for development and testing purposes.
 In order for Dahmer's Open Mailer to work properly, you cannot have any sort of 2
 factor auth configured on the email used to sent the email.
 
-The easiest (**but unsafe**) way to get the mailer to work is by allowing unsafe
+The easiest (**but unsecure**) way to get the mailer to work is by allowing unsafe
 apps (such as this one) to use your email adress. Note that this would leave your
 account vulnerable to someone knowing your credentials to send emails using your account.
 
@@ -23,7 +23,7 @@ you need to allow your domain's users to allow unsafe apps first by following th
 instructions: https://support.google.com/a/answer/6260879?hl=en under Manage access to
 less secure apps.
 
-The safe way to do is described here: https://support.google.com/accounts/answer/185833.
+XOAuth2 authentication will be added in a future update.
 
 ### Installing
 
