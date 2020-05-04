@@ -120,7 +120,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Dominic Fournier** - *Initial work*
 
-See also the list of[contributors](https://github.com/DominicF96/DO_Mailer/graphs/contributors) 
+See also the list of [contributors](https://github.com/DominicF96/DO_Mailer/graphs/contributors) 
 who participated in this project.
 
 ## License
